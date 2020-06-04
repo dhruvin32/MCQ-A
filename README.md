@@ -4,4 +4,4 @@ This Project is a part of course Natural Language Processing at IIIT Bangalore, 
 
 Dataset Link: https://allenai.org/data/sciq
 
-This project uses modifed version of code available here( https://github.com/NoviScl/BERT-RACE ) to fine tune BERT-base and BERT-large model.
+This project uses modified version of code available here( https://github.com/NoviScl/BERT-RACE ) to fine tune BERT-base, RoBERTa and XLNet models.
